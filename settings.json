@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+
+    "terminal.integrated.env.windows": {
+        "PSExecutionPolicyPreference": "RemoteSigned"
+    },
+    "git.autofetch": true
+}
